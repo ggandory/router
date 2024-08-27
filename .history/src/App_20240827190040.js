@@ -5,7 +5,6 @@ const router = createBrowserRouter([
   {
     path: "/",
     element: <p>Home</p>,
-    errorElement: <p>Now Found^^</p>,
   },
   {
     path: "/videos",
